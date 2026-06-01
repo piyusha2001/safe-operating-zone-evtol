@@ -174,38 +174,6 @@ Random Forest achieved the highest performance and was selected as the deploymen
 - Matplotlib
 - Plotly
 
-### Development Tools
-- Git
-- GitHub
-
----
-
-## Project Structure
-
-```text
-safe-operating-zone-evtol/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│
-├── models/
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── inference.py
-│
-├── app/
-│   └── streamlit_app.py
-│
-├── requirements.txt
-└── README.md
-```
-
 ## Key Outcomes
 
 - Developed a real-time eVTOL safety classification system.
